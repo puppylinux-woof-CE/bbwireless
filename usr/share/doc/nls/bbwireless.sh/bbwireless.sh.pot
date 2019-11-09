@@ -1,0 +1,271 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-09 12:12+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /usr/sbin/bbwireless.sh:29
+msgid "Welcome to the wireless network setup tool."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:30
+msgid "Finished!"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:32
+msgid "Usage"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:33
+msgid "Just run"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:34
+msgid "from a virtual terminal or console."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:35
+msgid "You will be asked a series of questions about your network."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:36
+msgid ""
+"Answer them (y/n), press enter/return and you should be able to connect."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:37
+msgid "show this help and exit."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:38
+msgid "if multiple networks configured, manage the priority"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:39
+msgid "restart and re-connect to network"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:40
+msgid "disconnect from network"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:41
+msgid "create startup file for starting at boot"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:42
+msgid "list currently configured networks"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:43
+msgid "show version and exit."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:44
+msgid "Advanced usage"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:45
+msgid "Run the program and enter your network name and pass key"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:46
+msgid "NOTE: this method doesn't work with hidden or unsecured networks."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:48
+msgid "A network connection is established on"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:49
+msgid "There is no network connection."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:51
+msgid "A network file already exists."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:52
+msgid "Only choose to reconstruct it if you have"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:53
+msgid "plugged in a new wireless device."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:54
+msgid "Overwrite?"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:55
+msgid "creating /etc/network/interfaces"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:57
+msgid "Scanning"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:58
+msgid "Sorry scanning failed, try again."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:59
+msgid "Please enter the number of the Network you wish to connect with."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:60 /usr/sbin/bbwireless.sh:83
+msgid "is invalid, try again"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:63
+msgid "Enter the hidden network name"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:64
+msgid "Using"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:65
+msgid "as the network to connect to"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:67
+msgid "Password"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:68
+msgid "Enter your password"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:69
+msgid "Try again"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:71
+msgid "New networks will be appended to"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:72
+msgid "Here is your"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:73
+msgid "restarting the network process"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:75
+msgid "Starting the wireless service"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:77
+msgid "Checking connection"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:78
+msgid "Connection is successful"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:80
+msgid "has not configured your network"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:81
+msgid "Only 1 network configured. Nothing to do."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:82
+msgid "Choose the number of the network you want as number 1 priority."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:84
+msgid "You chose"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:85
+msgid "network for number 1 priority."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:86
+msgid "For more granular control of priority you can manually edit"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:87
+msgid "with"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:88
+msgid "text editor."
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:89
+msgid "Would you like to do so?"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:90
+msgid "not editing"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:92
+msgid "Start file"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:93
+msgid "exists already"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:94
+msgid "Would you like to start the network at boot?"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:95
+msgid "Would you like to make"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:96
+msgid "the default connection tool?"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:97
+msgid "is now the default network connection tool"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:98
+msgid "not using"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:99
+msgid "as default"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:101
+msgid "networks have not been configured for start at boot"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:102
+msgid "please reconfigure with"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:103
+msgid "status"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:104
+msgid "Encryption"
+msgstr ""
+
+#: /usr/sbin/bbwireless.sh:105
+msgid "wpa_supplicant failed to start."
+msgstr ""
